@@ -59,7 +59,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naduni18" alt="naduni18" />
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naduni18&show_icons=true&locale=en" alt="naduni18" /></p>
 
-<h2> 📈 &nbspCheck My GitHub History!</h2>
+<h2> 📈 &nbspCheck My GitHub History! :wink: </h2>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
