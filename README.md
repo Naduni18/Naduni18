@@ -57,4 +57,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Naduni18&show_icons=true&locale=en" alt="naduni18" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naduni18&" alt="naduni18" /></p>
-<p>&nbsp;<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naduni18&theme=github" alt="naduni18" /></p>
+<p>&nbsp;<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naduni18&theme=github" alt="naduni18" /></p>
