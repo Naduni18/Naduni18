@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/Naduni18/Naduni18/master/github-header-image.png "Header")](#)
+[![Header](https://raw.githubusercontent.com/Naduni18/Naduni18/master/github-header-image (1).png "Header")](#)
 
 <h3 align="left">A passionate Software Tester from Sri Lanka</h3>
 
