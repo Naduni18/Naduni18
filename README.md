@@ -57,7 +57,7 @@
 
 <h2> 📈 &nbspCheck My GitHub History! :wink: </h2>
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Naduni18/Naduni18/blob/main/github-contribution-grid-snake.svg)
 
 
 
