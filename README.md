@@ -55,7 +55,7 @@
 <img width="40" src="https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.png" alt="fedora" title="fedora"/>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naduni18" alt="naduni18" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naduni18" alt="naduni18" />&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naduni18&show_icons=true&locale=en" alt="naduni18" /></p>
 
 <h2> 📈 &nbspCheck My GitHub History! :wink: </h2>
