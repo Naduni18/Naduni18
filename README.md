@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naduni18&label=Profile%20views&color=0e75b6&style=flat" alt="naduni18" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naduni18&no-bg=true" alt="naduni18" /></a> &nbsp;</p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=naduni18&show_icons=true&theme=dark&locale=en&layout=compact" alt="naduni18" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=naduni18&show_icons=true&locale=en&layout=compact" alt="naduni18" /></p>
 
 - 🔭 I have a **Masters in Information degree from UCSC**
 
@@ -54,8 +54,8 @@
 <img width="40" src="https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.png" alt="fedora" title="fedora"/>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naduni18&theme=dark" alt="naduni18" />
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naduni18&show_icons=true&theme=dark&locale=en" alt="naduni18" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naduni18" alt="naduni18" />
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naduni18&show_icons=true&locale=en" alt="naduni18" /></p>
 
 
 
