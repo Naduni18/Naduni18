@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Naduni Peksala Warnakulasooriya</h1>
 <h3 align="center">A passionate Software Tester from Sri Lanka</h3>
 
@@ -57,5 +61,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naduni18" alt="naduni18" />
 &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naduni18&show_icons=true&locale=en" alt="naduni18" /></p>
 
-
+<h2> 📈 &nbsp;My GitHub History!</h2>
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
