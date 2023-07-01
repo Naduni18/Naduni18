@@ -9,7 +9,6 @@
 <h3> Contact Me </h3>
 <a href="https://www.linkedin.com/in/nanduni-warnakulasooriya-06639797/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naduniwarnakulasooriya" height="25" width="35" /></a>
 <a href="https://stackoverflow.com/users/7976104/naduni-warnakulasooriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="naduniwarnakulasooriya" height="25" width="35" /></a>
-<a href="https://dev.to/28sanduni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="28sanduni" height="25" width="35" /></a>
 
 ### Languages and Tools
 
