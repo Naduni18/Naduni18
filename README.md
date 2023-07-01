@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [naduni18.github.io](naduni18.github.io)
 
-- ⚡ Fun fact **I love to draw and paint**
+- ⚡ Fun fact **I love to draw and paint** 🎨
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
