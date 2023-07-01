@@ -1,7 +1,5 @@
 [![Header](https://raw.githubusercontent.com/Naduni18/Naduni18/master/github-header-image.png "Header")](#)
 
-<h3 align="left">A passionate Software Tester from Sri Lanka</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naduni18&label=Profile%20views&color=0e75b6&style=flat" alt="naduni18" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naduni18&no-bg=true" alt="naduni18" /></a> &nbsp;</p>
