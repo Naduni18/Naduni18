@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naduni18&label=Profile%20views&color=0e75b6&style=flat" alt="naduni18" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naduni18&no-bg=true" alt="naduni18" /></a> &nbsp;</p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=naduni18&show_icons=true&no-bg=true&locale=en&layout=compact" alt="naduni18" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=naduni18&show_icons=true&theme=dark&locale=en&layout=compact" alt="naduni18" /></p>
 
 - 🔭 I have a **Masters in Information degree from UCSC**
 
