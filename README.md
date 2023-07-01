@@ -62,5 +62,5 @@
 
 
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naduni18" alt="naduni18" width="400" height="200" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=naduni18&show_icons=true&locale=en" alt="naduni18" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=naduni18&show_icons=true&locale=en" alt="naduni18" width="400" height="200" /></p>
 
