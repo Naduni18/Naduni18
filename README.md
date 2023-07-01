@@ -1,7 +1,7 @@
 ### <h1 align = "center"> Hello, I'm Naduni Warnakulasooriya <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <h3> About Me </h3>
 
-- 🔭 I’m a **I have a Masters in Information Degree from UCSC**
+- 🔭 I have a **Masters in Information Degree from UCSC**
 - 🌱 I’m always learning **new things**
 - 💬 Ask me about **anything I'm happy to help**
 - ⚡ Fun fact **I love to draw and paint** 
