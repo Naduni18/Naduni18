@@ -137,10 +137,9 @@ describe('Naduni Warnakulasooriya')
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=naduni18&show_icons=true&hide_border=true&bg_color=0E1015&title_color=F0CD92&text_color=ECE6D6&icon_color=F0CD92&ring_color=F0CD92" width="49%" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=naduni18&hide_border=true&background=0E1015&stroke=0E1015&ring=F0CD92&fire=F0CD92&currStreakLabel=F0CD92&sideLabels=ECE6D6&currStreakNum=ECE6D6&sideNums=ECE6D6&dates=8D93A0" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naduni18&layout=compact&hide_border=true&bg_color=0E1015&title_color=F0CD92&text_color=ECE6D6" width="49%" />
 
 
 
