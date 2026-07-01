@@ -142,11 +142,7 @@ describe('Naduni Warnakulasooriya')
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naduni18&layout=compact&hide_border=true&bg_color=0E1015&title_color=F0CD92&text_color=ECE6D6" width="49%" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naduni18/Naduni18/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Naduni18/Naduni18/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Naduni18/Naduni18/output/github-contribution-grid-snake.svg" width="90%">
-</picture>
+
 
 </div>
 
